@@ -1,6 +1,6 @@
-package lk.ijse.gdse.assignment_2;
+package lk.ijse.gdse.spring_crud;
 
-import lk.ijse.gdse.assignment_2.config.WebRootConfig;
+import lk.ijse.gdse.spring_crud.config.WebRootConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {

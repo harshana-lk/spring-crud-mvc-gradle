@@ -1,4 +1,4 @@
-package lk.ijse.gdse.assignment_2.service;
+package lk.ijse.gdse.spring_crud.service;
 
 import java.util.List;
 

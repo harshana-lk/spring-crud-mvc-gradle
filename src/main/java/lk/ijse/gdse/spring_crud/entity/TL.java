@@ -1,4 +1,4 @@
-package lk.ijse.gdse.assignment_2.entity;
+package lk.ijse.gdse.spring_crud.entity;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;

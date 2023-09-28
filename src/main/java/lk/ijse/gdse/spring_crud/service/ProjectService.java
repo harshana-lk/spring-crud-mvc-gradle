@@ -1,6 +1,6 @@
-package lk.ijse.gdse.assignment_2.service;
+package lk.ijse.gdse.spring_crud.service;
 
-import lk.ijse.gdse.assignment_2.dto.ProjectDto;
+import lk.ijse.gdse.spring_crud.dto.ProjectDto;
 
 import java.util.UUID;
 

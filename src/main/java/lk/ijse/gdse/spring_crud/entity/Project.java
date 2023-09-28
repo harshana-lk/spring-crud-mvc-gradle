@@ -1,4 +1,4 @@
-package lk.ijse.gdse.assignment_2.entity;
+package lk.ijse.gdse.spring_crud.entity;
 
 
 import jakarta.persistence.*;
@@ -7,8 +7,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.hibernate.annotations.GenericGenerator;
-import org.hibernate.annotations.Type;
-import org.hibernate.id.UUIDHexGenerator;
 
 import java.util.UUID;
 

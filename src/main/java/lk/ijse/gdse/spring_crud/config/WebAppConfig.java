@@ -1,4 +1,4 @@
-package lk.ijse.gdse.assignment_2.config;
+package lk.ijse.gdse.spring_crud.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

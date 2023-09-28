@@ -1,8 +1,8 @@
-package lk.ijse.gdse.assignment_2.api;
+package lk.ijse.gdse.spring_crud.api;
 
-import lk.ijse.gdse.assignment_2.dto.TLDto;
-import lk.ijse.gdse.assignment_2.service.impl.TLServiceImpl;
-import lk.ijse.gdse.assignment_2.util.ResponseUtil;
+import lk.ijse.gdse.spring_crud.dto.TLDto;
+import lk.ijse.gdse.spring_crud.service.impl.TLServiceImpl;
+import lk.ijse.gdse.spring_crud.util.ResponseUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

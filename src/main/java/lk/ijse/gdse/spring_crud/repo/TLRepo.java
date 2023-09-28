@@ -1,6 +1,6 @@
-package lk.ijse.gdse.assignment_2.repo;
+package lk.ijse.gdse.spring_crud.repo;
 
-import lk.ijse.gdse.assignment_2.entity.TL;
+import lk.ijse.gdse.spring_crud.entity.TL;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

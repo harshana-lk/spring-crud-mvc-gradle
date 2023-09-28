@@ -1,4 +1,4 @@
-package lk.ijse.gdse.assignment_2.config;
+package lk.ijse.gdse.spring_crud.config;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,7 +21,7 @@ import java.util.Map;
 @Configuration
 @EnableTransactionManagement
 @PropertySource("classpath:application.properties")
-@EnableJpaRepositories("lk.ijse.gdse.assignment_2.repo")
+@EnableJpaRepositories("lk.ijse.gdse.spring_crud.repo")
 public class HibernateConfig {
 
     private Environment environment;

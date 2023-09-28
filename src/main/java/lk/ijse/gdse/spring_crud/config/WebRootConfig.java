@@ -1,6 +1,6 @@
-package lk.ijse.gdse.assignment_2.config;
+package lk.ijse.gdse.spring_crud.config;
 
-import lk.ijse.gdse.assignment_2.AppInitializer;
+import lk.ijse.gdse.spring_crud.AppInitializer;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;

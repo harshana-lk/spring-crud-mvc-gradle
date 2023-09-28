@@ -1,6 +1,6 @@
-package lk.ijse.gdse.assignment_2.dto;
+package lk.ijse.gdse.spring_crud.dto;
 
-import lk.ijse.gdse.assignment_2.entity.Project;
+import lk.ijse.gdse.spring_crud.entity.Project;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

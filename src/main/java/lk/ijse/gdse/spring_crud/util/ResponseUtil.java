@@ -1,4 +1,4 @@
-package lk.ijse.gdse.assignment_2.util;
+package lk.ijse.gdse.spring_crud.util;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
